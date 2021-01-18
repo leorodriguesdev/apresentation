@@ -6,12 +6,17 @@ a {
     text-decoration: none !important;
 }
 
+img {
+    margin: 20px;
+}
+
 .container-card {
     padding: 50px 0px 50px 0px;
     margin-bottom: 2em;
 }
 
 .img-perfil-card {
+    margin: 10px;
     display: flex;
     justify-content: center;
 }
@@ -37,7 +42,7 @@ a {
 }
 
 .card-perfil {
-    background-color: #19def0 !important;
+    background-color: #69b9f7 !important;
     box-shadow: 0px 0px 5px #f5f5f5;
     margin-top: 20%;
 }
@@ -103,7 +108,7 @@ a {
 @media (min-width: 900px) {
 
     .container-linear{
-        background: linear-gradient(to left, #ffffff 60%, #19def0 40%);
+        background: linear-gradient(to left, #ffffff 60%, #69b9f7 40%);
     }
 
     .card-col {
